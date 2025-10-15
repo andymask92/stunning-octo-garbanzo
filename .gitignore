@@ -230,6 +230,9 @@ csx/
 ecf/
 rcf/
 
+.vs/
+*.vsidx
+
 # Windows Store app package directories and files
 AppPackages/
 BundleArtifacts/
